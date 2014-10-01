@@ -13,7 +13,7 @@ class Exercise {
     (guess + x / guess) / 2
 
   def isGoodEnough(guess: Double, x: Double) =
-    abs(square(guess) - x) < 0.001
+    abs(square(guess) - x) <= math.ulp(x) // Relatively represent the distance between x and it's neighbour with ulp 'units in the last place'.
 
   def sqrt(x: Double) = sqrtIter(1.0, x)
 }
