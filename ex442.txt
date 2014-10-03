@@ -1,0 +1,14 @@
+sqrt(4)
+sqrtIter(1.0, 4)
+isGoodEnough(1.0,4)
+abs(square(1.0) - 4) < 0.001
+improve(1.0, 4) - > (1.0 + 4 / 1.0) / 2 -> 2.5
+sqrtIter(2.5, 4)
+isGoodEnough(2.5, 4)
+abs(square(2.5) - 5) < 0.001
+improve(2.5, 4) -> (2.5 + 4 / 2.5) / 2 -> 2.05
+sqrtIter(2.05, 4)
+.
+.
+.
+  
