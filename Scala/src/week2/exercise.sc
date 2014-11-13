@@ -7,3 +7,5 @@ object exercise {
   }
   factorial(4)
 }
+
+exercise.factorial(4)
