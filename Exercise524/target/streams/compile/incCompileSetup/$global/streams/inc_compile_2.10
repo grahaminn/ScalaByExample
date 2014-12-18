@@ -1,0 +1,119 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> /Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$$anonfun$main$1.class
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> /Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$$anonfun$main$2.class
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> /Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$$anonfun$main$3.class
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> /Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$$anonfun$main$4.class
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> /Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$.class
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> /Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate.class
+binary dependencies:
+2 items
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> /Users/grahamin/.sbt/boot/scala-2.10.4/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> org.grahaminn.scalastudy.Accumulate
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> org.grahaminn.scalastudy.Accumulate$
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> org.grahaminn.scalastudy.Accumulate$$anonfun$main$1
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> org.grahaminn.scalastudy.Accumulate$$anonfun$main$2
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> org.grahaminn.scalastudy.Accumulate$$anonfun$main$3
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> org.grahaminn.scalastudy.Accumulate$$anonfun$main$4
+used names:
+29 items
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> *
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> +
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> <init>
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> >
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> Accumulate
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> AnyRef
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> Array
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> Function1
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> Function2
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> Int
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> Predef
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> String
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> _root_
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> a
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> accumulate
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> apply
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> b
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> f
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> g
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> grahaminn
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> iter
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> org
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> origin
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> println
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> result
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> scala
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> scalastudy
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> x
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> y
+product stamps:
+6 items
+/Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$$anonfun$main$1.class -> lastModified(1418905440000)
+/Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$$anonfun$main$2.class -> lastModified(1418905440000)
+/Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$$anonfun$main$3.class -> lastModified(1418905440000)
+/Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$$anonfun$main$4.class -> lastModified(1418905440000)
+/Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate$.class -> lastModified(1418905440000)
+/Users/grahamin/ScalaByExample/Exercise524/target/scala-2.10/classes/org/grahaminn/scalastudy/Accumulate.class -> lastModified(1418905440000)
+source stamps:
+1 items
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> hash(abece6042141e0e70ba35f9b09a2964b77c242ef)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1410998958000)
+/Users/grahamin/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> lastModified(1395179187000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/grahamin/.sbt/boot/scala-2.10.4/lib/scala-library.jar -> scala.Function2
+internal apis:
+1 items
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAR5yWGAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJAFvsR0AAZub3RpZnlzcQB+AAzG72SedAAKYWNjdW11bGF0ZXNxAH4ADI3QLcF0AAR3YWl0c3EAfgAMbJ6bhXQADSRhc0luc3RhbmNlT2ZzcQB+AAxzmX5/dAAGZXF1YWxzc3EAfgAMtRQj9XQADGFzSW5zdGFuY2VPZnNxAH4ADCFIacV0AAxzeW5jaHJvbml6ZWRzcQB+AAxmHpkddAANJGlzSW5zdGFuY2VPZnNxAH4ADJmoqlt0AARtYWluc3EAfgAMEl6t9XQACW5vdGlmeUFsbHNxAH4ADOmPYpB0AAxpc0luc3RhbmNlT2ZzcQB+AAzpZCt8dAACPT1zcQB+AAzM+Se2dAAFY2xvbmVzcQB+AAyPX1DKdAAIdG9TdHJpbmdzcQB+AAxpLhsodAACIT1zcQB+AAxTuxZNdAAIZ2V0Q2xhc3NzcQB+AAxEaEMXdAACbmVzcQB+AAyye1pTdAAKQWNjdW11bGF0ZXNxAH4ADK7M6m90AAJlcXNxAH4ADKN4lKZ0AAIjI3NxAH4ADFcPtnR0AAhmaW5hbGl6ZXNxAH4ADNanhxB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACNvcmcuZ3JhaGFtaW5uLnNjYWxhc3R1ZHkuQWNjdW11bGF0ZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFx4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFsAcHNxAH4AYHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGRzcQB+AFsAcHNxAH4AYHVxAH4APgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4ARHEAfgBNdXEAfgBOAAAAAHNxAH4AUABxAH4AH3VxAH4AUwAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AY3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgXVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AG54cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFZ0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHVbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGNzcQB+AHR0AAVBcnJheXEAfgB6dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHR0AAZTdHJpbmdzcQB+AHhzcQB+AHt1cQB+AH4AAAADc3EAfgCAdAAEamF2YXNxAH4AgHQABGxhbmdxAH4AhXNxAH4AWwBwc3EAfgBgdXEAfgA+AAAAAHNxAH4AWwBwc3EAfgBgdXEAfgCZAAAAAnNxAH4AdHQABk9iamVjdHEAfgCdc3EAfgB0dAADQW55cQB+AHp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAA3NyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AA1vcmcuZ3JhaGFtaW5uc3EAfgCwdAAYb3JnLmdyYWhhbWlubi5zY2FsYXN0dWR5c3EAfgCwdAADb3Jnc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFKXVrExXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEQvVXNlcnMvZ3JhaGFtaW4vU2NhbGFCeUV4YW1wbGUvRXhlcmNpc2U1MjQvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKvs5gQhQeDnC6Nfmwmilkt3wkLv
+external apis:
+0 items
+source infos:
+1 items
+/Users/grahamin/ScalaByExample/Exercise524/src/main/scala/org/grahaminn/scalastudy/Accumulate.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSl1axMV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9ncmFoYW1pbi9TY2FsYUJ5RXhhbXBsZS9FeGVyY2lzZTUyNC90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABLw==
