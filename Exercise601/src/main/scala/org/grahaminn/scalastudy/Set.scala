@@ -16,8 +16,8 @@ class EmptySet extends IntSet {
 
 class NonEmptySet(elem: Int, left: IntSet, right: IntSet) extends IntSet {
   def contains(x: Int): Boolean =
-    if (x < elem) left contains x
-    else if (x > elem) right contains x
+    if (x < elem) (left contains x)
+    else if (x > elem) (right contains x)
     else true
   def incl(x: Int): IntSet =
     if (x < elem) new NonEmptySet(elem, left incl x, right)
@@ -28,5 +28,5 @@ class NonEmptySet(elem: Int, left: IntSet, right: IntSet) extends IntSet {
     else new NonEmptySet(elem, x union left, x union right)
   def intersection(x: IntSet) : IntSet =
     if (x contains elem) new NonEmptySet(elem, x intersection right, x intersection left)
-    else return ((x intersection left) intersection right) 
+    else return (x intersection left) union (x intersection right) 
 }

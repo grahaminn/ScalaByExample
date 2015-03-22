@@ -1,8 +1,7 @@
-resolvers ++= Seq(
-  "Sonatype Releases" at "http://oss.sonatype.org/content/repositories/releases"
-)
+name := "Exercise461"
 
-libraryDependencies ++= Seq(
-  "org.scalacheck" %% "scalacheck" % "1.11.6" % "test"
-  "org.scalatest" % "scalatest_2.11" % "2.2.1" % "test"
-)
+version := "1.0"
+
+scalaVersion := "2.11.2"
+
+libraryDependencies += "org.scalatest" %% "scalatest" % "2.2.4" % "test"
