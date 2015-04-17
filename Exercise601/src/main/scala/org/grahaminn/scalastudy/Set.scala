@@ -27,6 +27,6 @@ class NonEmptySet(elem: Int, left: IntSet, right: IntSet) extends IntSet {
     if (x contains elem) ((x union left) union right)
     else new NonEmptySet(elem, x union left, x union right)
   def intersection(x: IntSet) : IntSet =
-    if (x contains elem) new NonEmptySet(elem, x intersection right, x intersection left)
+    if (x contains elem) new NonEmptySet(elem, x intersection left, x intersection right)
     else return (x intersection left) union (x intersection right) 
 }

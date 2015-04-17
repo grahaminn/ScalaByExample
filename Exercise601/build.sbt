@@ -1,4 +1,4 @@
-name := "Exercise461"
+name := "Exercise601"
 
 version := "1.0"
 
