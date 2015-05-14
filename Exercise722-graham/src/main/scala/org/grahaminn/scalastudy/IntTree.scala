@@ -1,15 +1,16 @@
+package org.grahaminn.scalastudy;
+
 abstract class IntTree {
-	def contains(t: IntTree, v: Int): Boolean = t match {
-		case EmptyTree => false
-		case Node(node, left, right) => 
-			(node == v) || contains(left, v) || contains(right, v)
+	def contains(v: Int): Boolean = this match {
+        	case EmptyTree => false
+        	case Node(node, left, right) => ((node == v) || (left contains v) || (right contains v))
 	}
 
-	def insert(t: IntTree, v: Int): IntTree = t match {
-		case EmptyTree => Node(v, EmptyTree(), EmptyTree())
-		case Node(node, left, right) => 
-			if (v < node) new Node(node, insert(left, v), right)
-			else new Node (node, left, insert(right, v)
+	def insert(v: Int): IntTree = this match {
+        	case EmptyTree => new Node(v, EmptyTree, EmptyTree)
+        	case Node(node, left, right) =>
+                	if (v < node) { new Node(node, left insert v, right) }
+                	else { new Node (v, left insert node, right) }
 	}
 }
 
