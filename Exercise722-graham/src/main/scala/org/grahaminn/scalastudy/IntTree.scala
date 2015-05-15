@@ -10,7 +10,8 @@ abstract class IntTree {
         	case EmptyTree => new Node(v, EmptyTree, EmptyTree)
         	case Node(node, left, right) =>
                 	if (v < node) { new Node(node, left insert v, right) }
-                	else { new Node (v, left insert node, right) }
+			else if (v == node) return this
+                	else { new Node (node, left, right insert v) }
 	}
 }
 
